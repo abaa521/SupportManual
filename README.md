@@ -21,13 +21,13 @@
 ## 首次使用指南
 1. 下載雷電模擬器9，並在模擬器中下載遊戲 (play商店或官方apk)
 2. 設定模擬器（解析度設為960*540）。
-![這是一張示例圖片](https://chtineer.com/png/解析度.png)
+![這是一張示例圖片](https://chtineer.com/GameSupport/resolution.png)
 3. Windows顯示百分比需設為100%（通常只有筆電需設定）。
 4. 檢查Nvidia顯卡設定（需為原廠設定），Amd顯卡無法使用。
 
 ## 自行安裝指南
 1. 下載程式並解壓縮至您的目錄
-2. 到windows安全性設定，將您的目錄「防毒排除」，避免誤刪。
+2. 到windows安全性設定，將您的目錄「防毒排除」，避免誤刪。[教學](https://www.gdaily.org/20750/windows-defender)
 3. 以系統管理員的身分執行 (註冊大漠插件到系統.bat)。
 4. 執行遊戲輔助（GameSupport.exe），此時會提示缺少套件。
 5. 點擊之後，將會下載微軟官方的程式庫(.Net 8 Desktop x86)。

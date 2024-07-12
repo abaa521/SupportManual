@@ -33,22 +33,18 @@
 1. 下載程式並解壓縮至您的目錄
 2. 到windows安全性設定，將您的目錄「防毒排除」，避免誤刪。[教學網址](https://www.gdaily.org/20750/windows-defender)
 
-3. 以系統管理員的身分執行 (註冊大漠插件到系統.bat)。
-
-![這是一張示例圖片](https://chtineer.com/GameSupport/註冊大漠.png)
-
-4. 進入目錄[net8.0-windows7.0]，執行遊戲輔助（GameSupport.exe），此時會提示缺少套件。
+3. 進入目錄[net8.0-windows7.0]，執行遊戲輔助（GameSupport.exe），此時會提示缺少套件。
 
 ![這是一張示例圖片](https://chtineer.com/GameSupport/GameSupport.exe.png)
 
-5. 點擊之後，將會下載微軟官方的程式庫(.Net 8 Desktop x86)。
-6. 點擊下載下來的套件，並安裝。
-7. 再次執行遊戲輔助（GameSupport.exe）。
+4. 點擊之後，將會下載微軟官方的程式庫(.Net 8 Desktop x86)。
+5. 點擊下載下來的套件，並安裝。
+6. 再次執行遊戲輔助（GameSupport.exe）。
 
 ![這是一張示例圖片](https://chtineer.com/GameSupport/GameSupport.exe.png)
 
-8. 程式會提示更新，點擊更新。
-9. 更新完成之後，即可使用。
+7. 程式會提示更新，點擊更新。
+8. 更新完成之後，即可使用。
     
 # 模擬器注意事項
 ### (一) 模擬器設定

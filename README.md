@@ -14,12 +14,12 @@
 - 聯繫Whatapp: +886906962127
 
 ## 協助安裝指南
-1. 在電腦下載遠端軟體[Awesun](https://sun.aweray.com/)。
+1. 在電腦下載遠端軟體[Awesun](https://sun.aweray.com)。
    - (一) 提供ID，當收到請求時接受。
    - (二) 提供ID和遠端密碼，安裝人員會在有空時操作。
 
 ## 首次使用指南
-1. 下載雷電模擬器9，並在模擬器中下載遊戲 (play商店或官方apk)
+1. 下載[雷電模擬器9](https://www.ldplayer.tw/download/install)，並在模擬器中下載遊戲 (play商店或官方apk)
 2. 模擬器須設為平板版（解析度設為960*540）。
 
 ![這是一張示例圖片](https://chtineer.com/GameSupport/resolution.png)

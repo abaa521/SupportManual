@@ -30,15 +30,15 @@
 ![這是一張示例圖片](https://chtineer.com/GameSupport/原場設定.png)
 
 ## 自行安裝指南
-1. 下載程式並解壓縮至您的目錄
-2. 到windows安全性設定，將您的目錄「防毒排除」，避免誤刪。[教學網址](https://www.gdaily.org/20750/windows-defender)
+1. 下載程式並解壓縮至「您的目錄」
+2. 到windows安全性設定，將「您的目錄」排除防毒掃描 (防毒有時候會誤刪) [教學網址](https://www.gdaily.org/20750/windows-defender)
 
-3. 進入目錄[net8.0-windows7.0]，執行遊戲輔助（GameSupport.exe），此時會提示缺少套件。
+3. 進入目錄，執行遊戲輔助（GameSupport.exe），此時會提示缺少套件。
 
 ![這是一張示例圖片](https://chtineer.com/GameSupport/GameSupport.exe.png)
 
-4. 點擊之後，將會下載微軟官方的程式庫(.Net 8 Desktop x86)。
-5. 點擊下載下來的套件，並安裝。
+4. 點擊之後，將會下載「微軟官方的程式庫」(.Net 8 Desktop x86)。
+5. 點擊「下載下來的程式庫」，並安裝。
 6. 再次執行遊戲輔助（GameSupport.exe）。
 
 ![這是一張示例圖片](https://chtineer.com/GameSupport/GameSupport.exe.png)

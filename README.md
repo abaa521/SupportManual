@@ -18,16 +18,16 @@
    - (一) 提供ID，當收到請求時接受。
    - (二) 提供ID和遠端密碼，安裝人員會在有空時操作。
 
-## 首次使用指南
+## 必要項目
 1. 下載[雷電模擬器9](https://www.ldplayer.tw/download/install)，並在模擬器中下載遊戲 (play商店或官方apk)
-2. 模擬器須設為平板版（解析度設為960*540）。
-
-![這是一張示例圖片](https://chtineer.com/GameSupport/resolution.png)
-
-3. Windows顯示百分比需設為100%（通常只有筆電需設定）。
-4. 檢查Nvidia顯卡設定需為原廠設定( 通常不需要更動 )，Amd顯卡無法使用。
+2. Windows顯示百分比需設為100%（通常只有筆電需設定）。
+3. 檢查Nvidia顯卡設定需為原廠設定( 通常不需要更動 )，Amd顯卡無法使用，使用筆電的話需要有外接螢幕。
 
 ![這是一張示例圖片](https://chtineer.com/GameSupport/原場設定.png)
+
+3. 模擬器須設為平板版（解析度設為960*540）。
+
+![這是一張示例圖片](https://chtineer.com/GameSupport/resolution.png)
 
 ## 自行安裝指南
 1. 下載程式並解壓縮至「您的目錄」

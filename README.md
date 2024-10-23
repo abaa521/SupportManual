@@ -67,3 +67,5 @@
 1. 程式關閉會記住使用者的選項，不需每次重新設定。
 2. 手動操作時，記得先停止程式。
 3. [Line通知使用方法](https://hackmd.io/@sideex/line-notify-zh) - 如何申請Line Notify個人存取權杖(access token)。
+
+# 如果程式開不起來，重新下載可以解決問題

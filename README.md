@@ -68,4 +68,8 @@
 2. 手動操作時，記得先停止程式。
 3. [Line通知使用方法](https://hackmd.io/@sideex/line-notify-zh) - 如何申請Line Notify個人存取權杖(access token)。
 
+# 目前已有輔助
+1. [倩女幽魂](https://github.com/abaa521/GhostSupport)
+2. [維京崛起](https://github.com/abaa521/VikingSupport)
+3. 歡迎訂製
 # 如果程式開不起來，重新下載可以解決問題

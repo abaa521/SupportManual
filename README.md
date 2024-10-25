@@ -23,11 +23,11 @@
 2. Windows顯示百分比需設為100%（通常只有筆電需設定）。
 3. 檢查Nvidia顯卡設定需為原廠設定（通常不需要更動），Amd顯卡可能無法使用(不一定)，使用筆電的話需要有外接螢幕。
 
-![這是一張示例圖片](https://chtineer.com/GameSupport/原場設定.png)
+![這是一張示例圖片](https://chtineer.com/Images/原場設定.png)
 
 4. 模擬器須設為平板版（解析度設為960*540）。
 
-![這是一張示例圖片](https://chtineer.com/GameSupport/resolution.png)
+![這是一張示例圖片](https://chtineer.com/Images/resolution.png)
 
 ## 自行安裝指南
 1. 下載程式並解壓縮至「您的目錄」
@@ -35,13 +35,13 @@
 
 3. 進入目錄，執行遊戲輔助（GameSupport.exe），此時會提示缺少套件。
 
-![這是一張示例圖片](https://chtineer.com/GameSupport/GameSupport.exe.png)
+![這是一張示例圖片](https://chtineer.com/Images/GameSupport.exe.png)
 
 4. 點擊之後，將會下載「微軟官方的程式庫」(.Net 8 Desktop x86)。
 5. 點擊「下載下來的程式庫」，並安裝。
 6. 再次執行遊戲輔助（GameSupport.exe）。
 
-![這是一張示例圖片](https://chtineer.com/GameSupport/GameSupport.exe.png)
+![這是一張示例圖片](https://chtineer.com/Images/GameSupport.exe.png)
 
 7. 程式會提示更新，點擊更新。
 8. 更新完成之後，輸入對應的模擬器名稱，即可使用。
@@ -51,7 +51,7 @@
 1. 模擬器須設為平板版解析度960*540。
 2. 如調整模擬器大小，取消勾選「記住位置」，重開模擬器即可復原。
 
-![這是一張示例圖片](https://chtineer.com/GameSupport/記住位置.png)
+![這是一張示例圖片](https://chtineer.com/Images/記住位置.png)
 
 3. 關閉或重啟模擬器時，需先停止程式後再重新運作。
 

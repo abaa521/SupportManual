@@ -66,8 +66,8 @@
 # 其他注意事項
 1. 程式關閉會記住使用者的選項，不需每次重新設定。
 2. 手動操作時，記得先停止程式。
-3. [Line通知使用方法](https://hackmd.io/@sideex/line-notify-zh)(此服務於明年3月停用)
-4. [Telegram通知使用方法]([https://hackmd.io/@sideex/line-notify-zh](https://blog.mrat.io/mr-%E7%AD%96%E7%95%A5%E6%95%B4%E5%90%88%E4%B8%8B%E5%96%AE%E6%A9%9F%EF%BD%9C%E5%A6%82%E4%BD%95%E7%94%B3%E8%AB%8Btelegram%E5%8D%B3%E6%99%82%E9%80%9A%E8%A8%8A/)) 
+3. [Line通知使用方法](https://hackmd.io/@sideex/line-notify-zh)(此服務於2025年3月停用)
+4. [Telegram通知使用方法](https://blog.mrat.io/mr-%E7%AD%96%E7%95%A5%E6%95%B4%E5%90%88%E4%B8%8B%E5%96%AE%E6%A9%9F%EF%BD%9C%E5%A6%82%E4%BD%95%E7%94%B3%E8%AB%8Btelegram%E5%8D%B3%E6%99%82%E9%80%9A%E8%A8%8A/)
 
 # 目前已有輔助
 1. [倩女幽魂](https://github.com/abaa521/GhostSupport)

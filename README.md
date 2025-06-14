@@ -3,7 +3,7 @@
 - 聯繫Whatapp: +886906962127
 
 ## 試用和購買信息
-- 自行下載即可試用，試用版可以使用3天，滿意好用再付款。
+- 自行下載即可試用，試用版可以使用7天，滿意好用再付款。
 - 購買後可永久使用
 
 ## 遊戲輔助注意事項
@@ -22,7 +22,7 @@
 ![這是一張示例圖片](https://chtineer.com/Images/獨顯直連.png)
 
 ## 協助安裝指南
-1. 在電腦下載遠端軟體[Awesun](https://sun.aweray.com)。
+1. 在電腦下載遠端軟體Awesun或Anydesk。
    - (一) 提供ID，當收到請求時接受。
    - (二) 提供ID和遠端密碼，安裝人員會在有空時操作。
 
@@ -66,8 +66,7 @@
 # 其他注意事項
 1. 程式關閉會記住使用者的選項，不需每次重新設定。
 2. 手動操作時，記得先停止程式。
-3. [Line通知使用方法](https://hackmd.io/@sideex/line-notify-zh)(此服務於2025年3月停用)
-4. [Telegram通知使用方法](https://blog.mrat.io/mr-%E7%AD%96%E7%95%A5%E6%95%B4%E5%90%88%E4%B8%8B%E5%96%AE%E6%A9%9F%EF%BD%9C%E5%A6%82%E4%BD%95%E7%94%B3%E8%AB%8Btelegram%E5%8D%B3%E6%99%82%E9%80%9A%E8%A8%8A/)
+3. [Telegram通知使用方法](https://blog.mrat.io/mr-%E7%AD%96%E7%95%A5%E6%95%B4%E5%90%88%E4%B8%8B%E5%96%AE%E6%A9%9F%EF%BD%9C%E5%A6%82%E4%BD%95%E7%94%B3%E8%AB%8Btelegram%E5%8D%B3%E6%99%82%E9%80%9A%E8%A8%8A/)
 
 # 目前已有輔助
 1. [倩女幽魂](https://github.com/abaa521/GhostSupport)

@@ -13,11 +13,11 @@
 ## 必要項目
 1. 下載[雷電模擬器9](https://www.ldplayer.tw/)，並在模擬器中下載遊戲 (play商店或官方apk)
 2. Windows顯示百分比需設為100%（通常只有筆電需設定）。
-3. 檢查Nvidia顯卡設定需為原廠設定（通常不需要更動），Amd顯卡可能無法使用，
+3. 檢查Nvidia顯卡設定需為原廠設定（通常不需要更動），Amd顯卡無法使用，
 
 ![這是一張示例圖片](https://images.chtineer.com/nvdia原廠設定.png)
 
-4.使用筆電的話需要有"外接螢幕"或"獨顯直連技術"。
+4.使用筆電的話需要有"獨顯直連技術"。
 
 ![這是一張示例圖片](https://images.chtineer.com/獨顯直連.png)
 
@@ -49,7 +49,7 @@
 
 ![這是一張示例圖片](https://images.chtineer.com/resolution.png)
 
-2. 如調整模擬器大小，取消勾選「記住位置」，重開模擬器即可復原。
+2. 如不小心更動模擬器大小，不勾選「記住位置」，重開模擬器即可復原。
 
 ![這是一張示例圖片](https://images.chtineer.com/記住位置.png)
 

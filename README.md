@@ -15,11 +15,11 @@
 2. Windows顯示百分比需設為100%（通常只有筆電需設定）。
 3. 檢查Nvidia顯卡設定需為原廠設定（通常不需要更動），Amd顯卡可能無法使用，
 
-![這是一張示例圖片](https://chtineer.com/Images/原場設定.png)
+![這是一張示例圖片](https://images.chtineer.com/nvdia原廠設定.png)
 
 4.使用筆電的話需要有"外接螢幕"或"獨顯直連技術"。
 
-![這是一張示例圖片](https://chtineer.com/Images/獨顯直連.png)
+![這是一張示例圖片](https://images.chtineer.com/獨顯直連.png)
 
 ## 協助安裝指南
 1. 在電腦下載遠端軟體Awesun或Anydesk。
@@ -32,13 +32,13 @@
 
 3. 進入目錄，執行遊戲輔助（GameSupport.exe），此時會提示缺少套件。
 
-![這是一張示例圖片](https://chtineer.com/Images/GameSupport.exe.png)
+![這是一張示例圖片](https://images.chtineer.com/GameSupport.exe.png)
 
 4. 點擊之後，將會下載「微軟官方的程式庫」(.Net 8 Desktop x86)。
 5. 點擊「下載下來的程式庫」，並安裝。
 6. 再次執行遊戲輔助（GameSupport.exe）。
 
-![這是一張示例圖片](https://chtineer.com/Images/GameSupport.exe.png)
+![這是一張示例圖片](https://images.chtineer.com/GameSupport.exe.png)
 
 7. 如果程式提示更新，點擊更新。
 8. 輸入對應的模擬器視窗名稱，即可使用。
@@ -47,11 +47,11 @@
 ### (一) 模擬器設定
 1. 模擬器須設為平板版解析度960*540。
 
-![這是一張示例圖片](https://chtineer.com/Images/resolution.png)
+![這是一張示例圖片](https://images.chtineer.com/resolution.png)
 
 2. 如調整模擬器大小，取消勾選「記住位置」，重開模擬器即可復原。
 
-![這是一張示例圖片](https://chtineer.com/Images/記住位置.png)
+![這是一張示例圖片](https://images.chtineer.com/記住位置.png)
 
 3. 關閉或重啟模擬器時，需先停止程式後再重新運作。
 

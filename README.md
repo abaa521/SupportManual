@@ -71,6 +71,7 @@
 # 目前已有輔助
 1. [倩女幽魂](https://github.com/abaa521/GhostSupport)
 2. [維京崛起](https://github.com/abaa521/VikingSupport)
-3. 歡迎訂製
+3. [世紀帝國m](https://github.com/abaa521/AgeOfEmpiresSupport)
+4. 歡迎訂製
 
 # 如果程式開不起來，重新下載可以解決問題

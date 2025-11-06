@@ -21,6 +21,10 @@
 
 ![這是一張示例圖片](https://images.chtineer.com/獨顯直連.png)
 
+5.電腦需要設定為繁體中文(一般不需要處理)(有些商家會灌簡體中文版本的windows)
+
+![這是一張示例圖片](https://images.chtineer.com/時區.png)
+
 ## 協助安裝指南
 1. 在電腦下載遠端軟體Anydesk。
    - (一) 提供ID，當收到請求時接受。
